@@ -1,0 +1,9 @@
+{
+  "name": "tact-uiautocomplete",
+  "version": "0.1.0",
+  "homepage": "https://github.com/colinkahn/tact.gui.uiAutoComplete",
+  "main": "_gui.uiAutoComplete.scss",
+  "dependencies": {
+    "tact.objects.autoComplete": "git@github.com:colinkahn/tact.objects.autoComplete.git#0.1.x"
+  }
+}

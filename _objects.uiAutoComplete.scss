@@ -1,0 +1,36 @@
+/*------------------------------------*\
+  #UI AUTO COMPLETE
+\*------------------------------------*/
+
+.uiAutoComplete {
+
+  .autoComplete__list {
+    background: white;
+    border: 1px solid black;
+  }
+
+
+
+
+
+  .autoComplete__choice:focus {
+    background: gray;
+  }
+
+
+
+
+
+  .autoComplete__choice {
+    border-bottom: 1px dotted gray;
+  }
+
+
+
+
+
+  .autoComplete__choice:last-child {
+    border-bottom: none;
+  }
+
+}
